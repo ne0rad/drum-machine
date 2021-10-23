@@ -1,7 +1,7 @@
 {
   "name": "drum-machine",
   "version": "1.0.0",
-  "description": "mini project 2",
+  "description": "Drum machine project for the FreeCodeCamp",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
